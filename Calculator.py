@@ -22,4 +22,4 @@ def operations (A,B):
 x=input("Chose Operation (+,-,/,*) : ")
 #function call
 operations(A,B)
-print("Thanks For Calculating 45:)")
+print("Thanks For Calculating :)")
