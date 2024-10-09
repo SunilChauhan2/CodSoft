@@ -1,5 +1,5 @@
 #Heading
-print("               MINI CALCULATOR           ")
+print("               CALCULATOR           ")
 
 #Input Numbers
 A=int(input("Enter first number: "))  
