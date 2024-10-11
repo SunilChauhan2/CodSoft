@@ -7,7 +7,7 @@ Rock-Paper-Scissors Game<br>
 Calculator<br>
 Contact Book<br>
 
-Rock-Paper-Scissors Game<br>
+##Rock-Paper-Scissors Game<br>
 Description :<br>
 This is a simple Rock-Paper-Scissors game implemented in Python. The game allows the user to play multiple rounds against the computer, with the option to quit after each round. The game keeps track of the user's and computer's scores for multiple rounds.<br>
 
@@ -17,7 +17,7 @@ Run the file using Python (e.g., python rock_paper_scissors.py)<br>
 Follow the prompts to play the game<br>
 
 
-Calculator<br>
+##Calculator<br>
 Description :<br>
 This is a simple Calculator implemented in python. The calculator allows the user to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.<br>
 
@@ -30,7 +30,7 @@ Open the calculator.py file in a web browser or code editor.<br>
 Follow the prompts to perform calculations<br>
 
 
-Contact Book<br>
+##Contact Book<br>
 Description :<br>
 This is a simple Contact Book implemented in Python. The contact book allows the user to add, remove, and search for contacts.<br>
 
